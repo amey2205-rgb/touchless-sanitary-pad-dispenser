@@ -59,4 +59,4 @@ User Hand → IR Sensor → ESP32 → QR Payment (Razorpay)
 
 ## Team
 Developed as part of SY ENTC project at  
-Vishwakarma Institute of Technology, Pune (2025)
+Vishwakarma Institute of Technology, Pune (2026)
